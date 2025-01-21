@@ -51,10 +51,10 @@ I'm a passionate **AI/ML enthusiast** with a background in **Computer Engineerin
 
 ## 📫 How to reach me:
 ![LinkedIn](images/linkedin.png)
- <img src="images/linkedin-icon.png" width="30" height="30" />
+ <img src="images/linkedin.png" width="30" height="30" />
 
 ![LeetCode](images/leetcode.png)
- <img src="images/linkedin-icon.png" width="30" height="30" />
+ <img src="images/leetcode.png" width="30" height="30" />
 
 
 ---
