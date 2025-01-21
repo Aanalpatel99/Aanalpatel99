@@ -50,8 +50,8 @@ I'm a passionate **AI/ML enthusiast** with a background in **Computer Engineerin
 ---
 
 ## 📫 How to reach me:
-![LinkedIn](images/linkedin-icon.png)
-![LeetCode](images/leetcode-icon.png)
+![LinkedIn](images/linkedin.png)
+![LeetCode](images/leetcode.png)
 
 ---
 
