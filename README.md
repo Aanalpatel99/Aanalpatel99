@@ -50,11 +50,9 @@ I'm a passionate **AI/ML enthusiast** with a background in **Computer Engineerin
 ---
 
 ## 📫 How to reach me:
- <img src="images/linkedin.png" width="30" height="30" />
- <img src="images/leetcode.png" width="30" height="30" />
-## 📫 How to reach me:
-- **LinkedIn**: <a href="https://www.linkedin.com/in/aanalpatel21/"><img src="images/linkedin.png" width="30" height="30" /></a>
-- **LeetCode**: <a href="https://leetcode.com/u/Aanal_patel/"><img src="images/leetcode.png" width="30" height="30" /></a>
+
+- <a href="https://www.linkedin.com/in/aanalpatel21/"><img src="images/linkedin.png" width="30" height="30" /></a> **LinkedIn**
+- <a href="https://leetcode.com/u/Aanal_patel/"><img src="images/leetcode.png" width="30" height="30" /></a> **LeetCode**
 
 
 ---
