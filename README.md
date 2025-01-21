@@ -50,9 +50,8 @@ I'm a passionate **AI/ML enthusiast** with a background in **Computer Engineerin
 ---
 
 ## 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanal-patel/)
-- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername/)
-
+![LinkedIn](images/linkedin-icon.png)
+![LeetCode](images/leetcode-icon.png)
 
 ---
 
