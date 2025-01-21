@@ -49,10 +49,10 @@ I'm a passionate **AI/ML enthusiast** with a background in **Computer Engineerin
 
 ---
 
-<!-- Contact Section -->
 ## 📫 How to reach me:
-- [![LinkedIn]]([https://www.linkedin.com/in/aanal-patel/](https://www.linkedin.com/in/aanalpatel21/)
-- [![LeetCode]]([https://leetcode.com/yourusername/](https://leetcode.com/u/Aanal_patel/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanal-patel/)
+- ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername/)
+
 
 ---
 
