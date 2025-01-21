@@ -57,12 +57,5 @@ I'm a passionate **AI/ML enthusiast** with a background in **Computer Engineerin
 
 ---
 
-<!-- GitHub Stats Section -->
-## 📈 GitHub Stats
-
-![Aanal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aanalpatel99&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
----
-
 <!-- Footer Section -->
 ### Thanks for visiting my profile! Feel free to check out my repositories, and let's connect if you're interested in AI, ML, or Robotics! 🚀
