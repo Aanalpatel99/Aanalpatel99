@@ -51,8 +51,8 @@ I'm a passionate **AI/ML enthusiast** with a background in **Computer Engineerin
 
 <!-- Contact Section -->
 ## 📫 How to reach me:
-- **LinkedIn**: [![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white](https://cdn-icons-png.flaticon.com/512/174/174857.png))]([https://www.linkedin.com/in/aanal-patel/](https://www.linkedin.com/in/aanalpatel21/)
-- **LeetCode**: [![LeetCode]([https://img.shields.io/badge/LeetCode-FFA116?style=social&logo=leetcode&logoColor=white](https://cdn.iconscout.com/icon/free/png-256/free-leetcode-logo-icon-download-in-svg-png-gif-file-formats--technology-social-media-company-vol-1-pack-logos-icons-3030025.png))]([https://leetcode.com/yourusername/](https://leetcode.com/u/Aanal_patel/)
+- [![LinkedIn]]([https://www.linkedin.com/in/aanal-patel/](https://www.linkedin.com/in/aanalpatel21/)
+- [![LeetCode]]([https://leetcode.com/yourusername/](https://leetcode.com/u/Aanal_patel/)
 
 ---
 
