@@ -18,7 +18,7 @@ I'm an **AI/ML engineer** with a knack for solving real-world problems using **d
 - **Tech Stack**: React, Node.js, Firebase
 - Built a contactless retail checkout app. Just scan, skip the line, and go! Designed for speed and ease in retail shopping.
 
-### 🧠 **Impostor Syndrome Comparison Map**
+### 🧠 **[Impostor Syndrome Comparison Map](https://github.com/Aanalpatel99/impostor-syndrome-comparison-map)**
 - **Tech Stack**: Python, Streamlit
 - A visual storytelling tool using clustering to explore Impostor Syndrome traits. Turning mental health research into insightful visuals.
 
