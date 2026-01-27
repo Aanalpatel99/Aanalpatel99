@@ -1,7 +1,7 @@
 <!-- Title Section -->
 # 👋 Hey there, I'm Aanal Patel
 
-### 🤖 AI/ML Explorer | 🧠 Curious Coder | 🤝 Tech Collaborator | 🎓 Computer Engineer
+### 🚀 AI Engineer | Robotics Enthusiast | TinyML Specialist 🛠️ Currently optimizing Computer Vision for Edge Hardware. 🧠 Expertise: RAG Pipelines, Model Quantization (INT8), Embedded Systems. 📍 Based in Canada.
 
 I'm an **AI/ML engineer** with a knack for solving real-world problems using **data, code, and creativity**. With a foundation in **Computer Engineering** and a flair for **robotics**, I build smart, intuitive, and human-centric solutions. Always upskilling, always building. Let's connect and create something amazing!
 
