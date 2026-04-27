@@ -108,7 +108,7 @@ or aerospace — even just an idea — I'd genuinely love to hear about it.
 ## 🏆 Highlights
 
 - 🥇 **Top 5 Nationwide** — National Robocon 2019
-- 📄 **Published** — STEM Fellowship Journal (Impostor Syndrome comparision map + AI research)
+- 📄 **Published** — STEM Fellowship Journal (Impostor Syndrome comparison map + AI research)
 - 🛰️Targeting roles in Embedded AI, Robotics, and Edge Intelligence — with a strong interest in Aerospace, Defence, and Marine Technology domains
 
 ---
