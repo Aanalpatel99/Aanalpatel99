@@ -117,4 +117,4 @@ or aerospace — even just an idea — I'd genuinely love to hear about it.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aanalpatel21-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aanalpatel21/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Aanal__patel-orange?style=flat&logo=leetcode)](https://leetcode.com/u/Aanal_patel/)
-[![Email](https://img.shields.io/badge/Email-aanal.kp@gmail.com-red?style=flat&logo=gmail)](mailto:aanal.kp@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aanal.kp@gmail.com-red?style=flat&logo=gmail)](mailto:aanal.patel1199@gmail.com)
