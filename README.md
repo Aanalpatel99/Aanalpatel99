@@ -79,7 +79,6 @@ TFLite Micro tensor arena optimization — final RAM usage ~105KB.
 ## 📈 Currently Building
 
 - 🛸 UAV safety companion system in ROS2 + PX4 SITL
-- 🔥 PyTorch deep learning (Week 3/8)
 - 🤖 C++ for embedded systems (advanced OOP, templates)
 - 🧮 LeetCode in C++ and Python (embedded-focused problems)
 
@@ -87,26 +86,30 @@ TFLite Micro tensor arena optimization — final RAM usage ~105KB.
 
 ## 🌌 Beyond the Code
 
-I grew up wanting to be an astronaut. That dream evolved into engineering — 
-but the obsession never left. I follow NASA missions, read astrophysics blogs, 
-and genuinely lose sleep thinking about what it would take to sustain human 
-life on another planet. The unglamorous hard problems — power, thermal management, 
+I grew up wanting to be an astronaut. That dream evolved into engineering —
+but the obsession never left. I follow NASA missions, read astrophysics blogs,
+and genuinely lose sleep thinking about what it would take to sustain human
+life on another planet. The unglamorous hard problems — power, thermal management,
 autonomous decision-making with no human in the loop — are what excite me most.
 
-When I'm not at a keyboard I'm training — kickboxing, Muay Thai, and FIIT keep 
-me sharp. I also follow deep ocean exploration and marine life with the same 
-obsession I bring to space. Orcas are my favourite mammals on the planet.
+When I'm not at a keyboard I'm training — kickboxing, Muay Thai, and FIIT are
+my anchors, but honestly I'll try almost any sport. Being active isn't a hobby,
+it's how I think. I also follow deep ocean exploration and marine life with the
+same obsession I bring to space. Orcas are my favourite mammals on the planet.
 
-I believe the engineers who will make space travel routine are building the 
+I believe the engineers who will make space travel routine are building the
 infrastructure layer right now. That's where I want to be.
+
+If you're working on something at the intersection of embedded systems, autonomy,
+or aerospace — even just an idea — I'd genuinely love to hear about it.
 
 ---
 
 ## 🏆 Highlights
 
 - 🥇 **Top 5 Nationwide** — National Robocon 2019
-- 📄 **Published** — STEM Fellowship Journal (Impostor Syndrome + AI research)
-- 🛰️ Targeting roles in Embedded AI, Robotics, Edge Intelligence, and Aerospace
+- 📄 **Published** — STEM Fellowship Journal (Impostor Syndrome comparision map + AI research)
+- 🛰️Targeting roles in Embedded AI, Robotics, and Edge Intelligence — with a strong interest in Aerospace, Defence, and Marine Technology domains
 
 ---
 
